@@ -1,0 +1,16 @@
+G:\Programozás\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+G:\Programozás\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+G:\Programozás\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+G:\Programozás\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+G:\Programozás\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+G:\Programozás\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+G:\Programozás\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.AssemblyReference.cache
+G:\Programozás\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.Form1.resources
+G:\Programozás\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.GenerateResource.cache
+G:\Programozás\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programozás\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+G:\Programozás\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+G:\Programozás\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+G:\Programozás\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+G:\Programozás\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+G:\Programozás\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
